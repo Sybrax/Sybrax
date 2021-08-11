@@ -1,6 +1,6 @@
 <img src="https://sybraxdesign.fr/assets/img/SA_Ban.png">
 <h1>Web Developper & UI Designer</h1>
-<p>Hey I'm Sybrax. I'm a young web developer and UI Designer for 1 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
+<p>Hey I'm Lohan. I'm a young web developer and UI Designer for 1 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ```js
 const sybrax = {
-  name: "Sybrax",
+  name: "Lohan",
   age: 15,
   location: "France",
   isAvailable: true,
