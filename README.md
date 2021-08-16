@@ -1,4 +1,4 @@
-<img src="https://sybraxdesign.fr/assets/img/SA_Ban.png">
+<img src="https://sybraxdesign.fr/assets/img/SA_Ban2.png">
 <h1>Web Developper & UI Designer</h1>
 <p>Hey I'm Lohan. I'm a young web developer and UI Designer for 1 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
 
