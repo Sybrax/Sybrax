@@ -15,6 +15,8 @@
   color: #f87610;
   text-align: center;
   padding: 7px 7px;
+  background: #eeeeee;
+  border: 1px solid black;
 }
 ```
 
