@@ -50,3 +50,9 @@ const sybrax = {
 
 [Discord](https://discord.gg/dJFFpaQ)
  
+ ---
+ 
+ <h3>Discord</h3>
+ <a href="https://discord.com/users/324528338574114817">
+  <img src="https://lanyard.cnrad.dev/api/324528338574114817">
+</a>
