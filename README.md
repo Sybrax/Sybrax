@@ -25,7 +25,7 @@
 ```js
 const sybrax = {
   name: "Lohan",
-  age: 15,
+  age: 16,
   location: "France",
   isAvailable: true,
 };
