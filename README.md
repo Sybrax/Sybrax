@@ -1,6 +1,6 @@
-<img src="https://sybraxdesign.fr/assets/img/github_banner.png">
+<img src="https://sybraxdesign.fr/assets/img/github_banner.png?2">
 <h1>Web Developper & UI Designer</h1>
-<p>Hey I'm Lohan. I'm a young web developer and UI Designer for 1 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
+<p>Hey I'm Lohan. I'm a young web developer and UI Designer for 3 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
 
 ---
 
@@ -46,7 +46,7 @@ const sybrax = {
   
 <h3>🔗・Link</h3>
 
-[WebSite](https://sybraxdesign.fr)
+[WebSite](https://sybrax.dev)
 
 [Discord](https://discord.gg/dJFFpaQ)
  
