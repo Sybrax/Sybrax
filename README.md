@@ -1,4 +1,4 @@
-<img src="https://sybraxdesign.fr/assets/img/github_banner.png?2">
+<img src="https://sybrax.dev/opengraph-image.png?51c6ef22de7ac717">
 <h1>Web Developper & UI Designer</h1>
 <p>Hey I'm Lohan. I'm a young web developer and UI Designer for 3 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
 
