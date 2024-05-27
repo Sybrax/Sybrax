@@ -1,58 +1,22 @@
-<img src="https://sybrax.dev/opengraph-image.png?51c6ef22de7ac717">
-<h1>Web Developper & UI Designer</h1>
-<p>Hey I'm Lohan. I'm a young web developer and UI Designer for 3 year now. I'm located in France with a project to become professional in the field of computer science, especially the web. </p>
+![Github Banner](https://sybrax.dev/opengraph-image.png?51c6ef22de7ac717)
+## About me
+A random ``javascript developer``, but with the merit of being enthusiastic, passionate and reasonable, and with energy to spare. Hi👋. I'm Lohan, and right now all I'm waiting for is you!
 
----
+## Skills
 
-<h3>💻・Web Developper</h3>
+Experienced ``javascript`` developer for 4 years now. Using :
 
-+ HTML & CSS
-```html
-<p class="sybrax">Sybrax | Web Developper & UI Designer</p>
-```
-```css
-.sybrax {
-  color: #f87610;
-  text-align: center;
-  padding: 7px 7px;
-  background: #eeeeee;
-  border: 1px solid black;
-}
-```
++ ReactJS, ViteJS, NextJS, VanillaJS, NodeJS, ExpressJS.
 
-+ JavaScript
+A lot of things ending in JS probably.
 
-```js
-const sybrax = {
-  name: "Lohan",
-  age: 16,
-  location: "France",
-  isAvailable: true,
-};
-```
+And of course, since js isn't everything, ``TailwindCSS`` completes the picture.
 
----
-
-<h3>🎨・UI Designer</h3>
-
-+ Adobe
-  + Illustrator
-  + Photoshop
-
-+ Other
-  + Figma
-  
----
-  
-<h3>🔗・Link</h3>
+## Links
 
 [WebSite](https://sybrax.dev)
 
-[Discord](https://discord.gg/dJFFpaQ)
- 
- ---
- 
- <h3>🌙・Discord</h3>
- <a href="https://discord.com/users/324528338574114817">
-  <img src="https://lanyard.cnrad.dev/api/324528338574114817">
-</a>
+## Discord Activity
+
+![Discord Activity](https://lanyard.cnrad.dev/api/324528338574114817)
+
