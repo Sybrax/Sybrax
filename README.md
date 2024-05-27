@@ -1,4 +1,4 @@
-![Github Banner](https://sybrax.dev/opengraph-image.png?51c6ef22de7ac717)
+![Github Banner](https://i.imgur.com/LQAAsq3.png)
 ## About me
 A random ``javascript developer``, but with the merit of being enthusiastic, passionate and reasonable, and with energy to spare. Hi👋. I'm Lohan, a french developer and right now all I'm waiting for is you!
 
