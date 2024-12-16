@@ -26,7 +26,5 @@ You can find many of my public creations [here](https://sybrax.dev/portfolio). (
 
 ## Discord Activity & Github Stats
 
-[![Discord Activity](https://lanyard.cnrad.dev/api/324528338574114817)](https://discord.com/users/324528338574114817)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sybrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
