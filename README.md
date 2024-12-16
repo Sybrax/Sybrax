@@ -24,7 +24,7 @@ console.log(getADev('javascript')) // Oh... it's Lohan 🤙
 
 You can find many of my public creations [here](https://sybrax.dev/portfolio). (redirection to my website)
 
-## Discord Activity & Github Stats
+## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sybrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
