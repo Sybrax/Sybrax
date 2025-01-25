@@ -1,4 +1,4 @@
-![Github Banner](https://i.imgur.com/LQAAsq3.png)
+![Github Banner](https://i.imgur.com/Ckm86M9.png)
 ## About me
 A random ``javascript developer``, but with the merit of being enthusiastic, passionate and reasonable, and with energy to spare. Hi👋. I'm Lohan, a french developer and right now all I'm waiting for is you!
 
@@ -14,10 +14,10 @@ And of course, since js isn't everything, ``TailwindCSS`` completes the picture.
 
 **Are you looking for an available developer? We'll find it.**
 ```js
-const getADev(type) => {
+const findDeveloper(type) => {
   return developers.filter(dev => dev.type === type);
 }
-console.log(getADev('javascript')) // Oh... it's Lohan 🤙
+console.log(findDeveloper('javascript')) // Oh... it's Lohan 🤙
 ```
 
 ## Portfolio
